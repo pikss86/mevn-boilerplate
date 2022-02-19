@@ -1,4 +1,5 @@
-# mevn-app2
+# mevn-boilerplate
+Шаблон построеный по статье https://habr.com/ru/post/457580/
 
 ## Project setup
 ```
@@ -18,6 +19,11 @@ npm run build
 ### Lints and fixes files
 ```
 npm run lint
+```
+
+### Для запуска сервера
+```
+node server/server.js
 ```
 
 ### Customize configuration
